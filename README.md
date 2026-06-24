@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 I started at the top of the stack with Python, and I'm deliberately heading down:
 NumPy and the math underneath it, then C and circuits once college begins. EEE @
 **NIT Warangal**, still figuring out whether I'm a software person, a hardware
@@ -13,4 +13,4 @@ why something works, not just that it does.
 > growing pile of "wait, how does that actually work?" questions.
 
 **Strong:** Python · Git  **·**  **Learning:** NumPy · electronics (ESP32) · the machine underneath it all
--->
+

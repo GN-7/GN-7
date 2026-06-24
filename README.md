@@ -9,8 +9,7 @@ person, or the rarer thing in between.
 What keeps me going is curiosity — I love looking under the hood and figuring out
 why something works, not just that it does.
 
-> Currently: linear algebra by hand, my first sensor on a breadboard, and a
-> growing pile of "wait, how does that actually work?" questions.
+> Currently: linear algebra by hand, my first sensor on a breadboard, and a growing pile of "wait, how does that actually work?" questions.
 
-**Strong:** Python · Git  **·**  **Learning:** NumPy · electronics (ESP32) · the machine underneath it all
+**Strong:** Python  **·**  **Learning:** NumPy · electronics (ESP32)
 

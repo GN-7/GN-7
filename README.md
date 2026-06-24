@@ -11,5 +11,6 @@ why something works, not just that it does.
 
 > Currently: linear algebra by hand, my first sensor on a breadboard, and a growing pile of "wait, how does that actually work?" questions.
 
-**Strong:** Python  **·**  **Learning:** NumPy · electronics (ESP32)
+**Strong:** Python  **·**  
+**Learning:** NumPy · electronics (ESP32)
 
